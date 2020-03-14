@@ -1,3 +1,4 @@
 My first file
 modified in master branch
 modified in master branch to test merge from github
+modified in master branch to test merge from git
